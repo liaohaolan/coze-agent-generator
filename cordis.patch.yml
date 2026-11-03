@@ -1,0 +1,13 @@
+﻿- insert:
+    - id: coze-agent-generator
+      name: '@local/coze-agent-generator'
+      config:
+        # Coze Open API 地址（coze.cn 国内站）
+        cozeApiBase: https://api.coze.cn
+        # 个人访问令牌（PAT）：coze.cn 右上角头像 →「扣子 API」→「个人访问令牌」→ 添加新令牌
+        # 填写后生成智能体会自动创建到你的空间，免手动粘贴
+        cozeToken: ''
+        # 空间 ID：coze.cn 个人空间页 URL 中 /space/{space_id} 里的那串数字
+        cozeSpaceId: ''
+        # 创建后是否自动发布（默认 false，创建后到 coze.cn 手动点「发布」）
+        cozePublish: false

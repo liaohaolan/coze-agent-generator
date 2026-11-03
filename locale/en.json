@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Coze Agent Generator",
+    "description": "Generate Coze (coze.cn) agent configs for any industry from the chat; save as YAML and paste into coze.cn."
+  }
+}

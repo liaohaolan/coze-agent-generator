@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Coze 智能体生成器",
+    "description": "在对话中一键生成任意行业的 Coze（扣子）智能体配置，可保存为 YAML 文件，按说明粘贴到 coze.cn 即可使用。"
+  }
+}
